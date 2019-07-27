@@ -1,0 +1,35 @@
+
+#sticky-footer {
+position: fixed;
+bottom:0px;
+width: 100%;
+}
+.navbar-brand {
+    font-size: 35px;
+    background-color:#4aaaa5;
+    padding: 20px;
+    margin-left: 150px;
+}
+.contentwrapper {
+    margin: auto;
+    margin-top: 40px;
+    line-height: 1.6;
+    text-align: left;
+    font-size: 20px;
+    color: grey;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddddd;
+  
+    }
+#aboutpic {
+    width: 300px;
+}
+.headerWork {
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.bulkWork {
+    padding: 20px;
+}
