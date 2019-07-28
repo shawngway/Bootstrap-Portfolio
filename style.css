@@ -24,6 +24,7 @@ width: 100%;
     }
 #aboutpic {
     width: 300px;
+    padding: 20px;
 }
 .headerWork {
     position: relative;
@@ -35,4 +36,8 @@ width: 100%;
 }
 body {
     padding-bottom: 125px;
+}
+img {
+    width:300px;
+    float: left;
 }
