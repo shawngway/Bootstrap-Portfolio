@@ -53,3 +53,9 @@ img {
     position: relative;
     float: left;
 }
+.codeLink {
+    color: #8B31F3;
+}
+.projectLink {
+    color: #210C39;
+}
