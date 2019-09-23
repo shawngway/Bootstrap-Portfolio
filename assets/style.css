@@ -44,6 +44,7 @@ height: 1px;
 }
 body {
     padding-bottom: 125px;
+    background-color: #FDFAFF;
 }
 img {
     width:300px;
@@ -52,10 +53,18 @@ img {
 .card {
     position: relative;
     float: left;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 .codeLink {
     color: #8B31F3;
 }
 .projectLink {
     color: #210C39;
+}
+#footerG {
+    color: #8B31F3;
+}
+#sticky-footer {
+    background-color: #210C39;
 }
